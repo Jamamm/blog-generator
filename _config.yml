@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: hello
-subtitle:
-description:
+title: Hello World
+subtitle: 
+description: 
 author: Jamamm
 language:
 timezone:
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-next
+theme: TKL
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
